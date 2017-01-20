@@ -12,6 +12,6 @@ print ("The weather today is %s" % hko.weather)
 
 produce the following result:
 
-~~~python
+~~~
 The weather today is light shower
 ~~~
