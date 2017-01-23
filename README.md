@@ -8,7 +8,7 @@ Return a weather object based on weather reported by HK Observatory
 ~~~python
 import hkop
 
-hko = hkop.HKOP()
+hko = hkop.HKO()
 print ("The weather today is %s" % hko.weather)
 ~~~
 
