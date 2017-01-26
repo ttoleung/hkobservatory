@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ttoleung/HKO-python.svg?branch=master)](https://travis-ci.org/ttoleung/HKO-python)
+[![Build Status](https://travis-ci.org/ttoleung/hkobservatory.svg?branch=master)](https://travis-ci.org/ttoleung/hkobservatory)
 
 # hkobservatory
 Return a weather object based on weather reported by HK Observatory
