@@ -13,8 +13,8 @@ pip install hkobservatory
 ~~~python
 import hkobservatory
 
-my_weather = hkobservatory.weather()
-print ("The weather today is %s" % my_weather.condition())
+w = hkobservatory.weather()
+print ("The weather today is %s" % w.condition())
 ~~~
 
 produce the following result:
